@@ -11,6 +11,11 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 public class FirstChapter {
+	
+	
+	public FirstChapter() {
+		
+	}
 
 	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
