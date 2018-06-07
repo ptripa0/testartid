@@ -10,6 +10,9 @@ import java.util.List;
 
 public class Chepter3 {
 	
+	public Chapter3(){
+		
+	}
 	
 	public void roar( String roar1, StringBuilder roar2) {
 		
